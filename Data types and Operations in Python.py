@@ -11,12 +11,13 @@
 # Input in Python # 
 #-------------------------------------------#
 
-# str=input(("Enter your name:") )
-# print(str)
+# age=input(("Enter your age:") )
+# print(type(age))
+# print(age)
 
-
-
-
+# agee=int(input(("Enter your age:")))
+# print(type(agee))
+# print(agee)
 
 #-------------------------------------------#
 # Operations in Python # 
